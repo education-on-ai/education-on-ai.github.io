@@ -22,36 +22,6 @@ weight = 10
 [languages.en.menu.main.params.paige]
 disabled = true
 
-[[languages.en.menu.main]]
-identifier = "venue"
-name = "Venue"
-url = "/venue/"
-weight = 20
-
-[[languages.en.menu.main]]
-identifier = "venue"
-name = "Venue"
-url = "/venue/"
-weight = 30
-
-[[languages.en.menu.main]]
-identifier = "topics"
-name = "Focus topics"
-url = "/topics/"
-weight = 30
-
-[[languages.en.menu.main]]
-identifier = "schedule"
-name = "Schedule"
-url = "/schedule/"
-weight = 40
-
-
-[[languages.en.menu.main]]
-identifier = "speakers"
-name = "Speakers"
-url = "/speakers/"
-weight = 50
 
 
 [[languages.en.menu.main]]
@@ -59,6 +29,34 @@ identifier = "home"
 name = "Home"
 url = "/"
 weight = 10
+
+
+[[languages.en.menu.main]]
+identifier = "topics"
+name = "Focus topics"
+url = "/topics/"
+weight = 20
+
+[[languages.en.menu.main]]
+identifier = "schedule"
+name = "Schedule"
+url = "/schedule/"
+weight = 30
+
+
+[[languages.en.menu.main]]
+identifier = "speakers"
+name = "Speakers"
+url = "/speakers/"
+weight = 40
+
+
+[[languages.en.menu.main]]
+identifier = "location"
+name = "Location"
+url = "/location/"
+weight = 50
+
 
 [markup.goldmark.renderer]
 unsafe = true
