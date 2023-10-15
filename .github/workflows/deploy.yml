@@ -2,7 +2,7 @@ name: Deploy pages
 on:
   push:
     # This needs to be replaced with the branch you want to deploy from if you use a non-standard name
-    branches: [ master ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
