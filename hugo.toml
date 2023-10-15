@@ -73,21 +73,3 @@ startlevel = 2
 home = ["atom", "html", "json", "rss"]
 section = ["atom", "html", "rss"]
 taxonomy = ["atom", "html", "rss"]
-
-[params.authors.will-faught]
-default = true
-email = "will.faught@example.com"
-name = "Will Faught"
-url = "https://willfaught.com/paige"
-
-[params.paige.git]
-commit_url = "https://github.com/willfaught/paige/commit/%s"
-
-[[params.paige.feed.atom.authors]]
-email = "will.faught@example.com"
-name = "Will Faught"
-url = "https://willfaught.com/paige"
-
-[params.paige.feed.rss]
-managing_editor = "will.faught@example.com (Will Faught)"
-web_master = "will.faught@example.com (Will Faught)"
