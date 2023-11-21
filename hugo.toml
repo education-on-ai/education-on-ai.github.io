@@ -23,7 +23,6 @@ weight = 10
 disabled = true
 
 
-
 [[languages.en.menu.main]]
 identifier = "home"
 name = "Home"
@@ -34,14 +33,23 @@ weight = 10
 [[languages.en.menu.main]]
 identifier = "topics"
 name = "Focus topics"
-url = "/topics/"
+parent = "schedule"
+url = "/schedule/topics/"
 weight = 20
 
 [[languages.en.menu.main]]
 identifier = "schedule"
-name = "Schedule"
+name = "Scientific Program"
 url = "/schedule/"
 weight = 30
+
+
+[[languages.en.menu.main]]
+identifier = "timetable"
+name = "Timetable"
+parent = "schedule"
+url = "/schedule/timetable/"
+weight = 10
 
 
 [[languages.en.menu.main]]

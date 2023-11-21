@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"  xml:lang="en"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://ai-education.github.io/schedule/atom.xml" rel="self" type="application/rss+xml"/>
+
+        
+
+        <description>Recent content</description>
+
+        
+            <language>en</language>
+        
+
+        
+            <lastBuildDate>Mon, 01 Jan 0001 00:00:00 UTC</lastBuildDate>
+        
+
+        <link>https://ai-education.github.io/schedule/</link>
+
+        
+
+        <title>Schedules · Connecting Disciplines in K-12 &lt;br&gt; AI and Data Science Education</title>
+
+        
+
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions (other topics  may be added):</p>
+<p><font size="7"><i class="bi-database"></i></font> <b>Data</b></br>  What  data and related contextual problems are appropriate  for designing learning opportunities related to AI? What do students need to know about the concept of data in order to do  Data Science and understand AI?</br></p>
+<p><font size="7"><i class="bi-tools"></i></font> <b>Tools</b></br>  How can (digital) tools be used for AI and Data Science education? Which tools are suitable for school? </br></p>
+<p><font size="7"><i class="bi-book"></i></font> <b>Learning Materials</b></br>  How can suitable teaching and learning materials look like? Which concepts can be elementarised? What are good practice examples?</br></p>
+<p><font size="7"><i class="bi-patch-check"></i></font> <b>AI and Data Science Competencies</b></br>  What are central competencies that responsible citizens should acquire with regard to the field of AI and data science? Which AI and data science competencies should already be promoted at school? What contribution can and must different subjects make?</br></p>
+<p><font size="7"><i class="bi-card-text"></i></font> <b>AI and Data Science Curricula and Implementation in School</b></br>  How can AI education be integrated in schools? How can AI and Data Science education be integrated into existing subject curricula (e.g. computer science, mathematics, social and natural sciences)? What could a curriculum of an AI and Data Science curriculum look like?</br></p>
+<p><font size="7"><i class="bi-search"></i></font> <b>Research</b></br>  What is the state of scientific knowledge on the topics mentioned above? What future research is needed?</br></p>
+]]></description>
+                
+
+                <guid  isPermaLink="false" >topics</guid>
+
+                
+                    <link>https://ai-education.github.io/schedule/topics/</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Focus topics</title>
+                
+            </item>
+        
+            <item>
+                
+                
+                
+                
+                
+                
+                
+                
+
+                
+
+                
+
+                
+
+                
+
+                
+                
+
+                
+
+                
+                    
+                
+
+                
+
+                
+
+                
+
+                
+                    <description><![CDATA[<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#0d6efd;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x1hj{border-color:inherit;font-size:22px;text-align:left;vertical-align:top}
+.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}
+.tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-spag{border-color:inherit;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1066px">
+<colgroup>
+<col style="width: 184px">
+<col style="width: 193px">
+<col style="width: 146px">
+<col style="width: 148px">
+<col style="width: 178px">
+<col style="width: 217px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-cyim"></th>
+    <th class="tg-spag">Sunday, 23.02.2025</th>
+    <th class="tg-spag">Monday, 24.02.2025</th>
+    <th class="tg-spag">Tuesday, 26.02.2025</th>
+    <th class="tg-spag">Wednesday, 26.02.2025</th>
+    <th class="tg-spag">Thursday, 27.02.2025</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bhpp">09:00 – 12:00</td>
+    <td class="tg-x1hj"> </td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">12:00 – 14:00</td>
+    <td class="tg-cyim"> </td>
+    <td class="tg-cyim">Lunch </td>
+    <td class="tg-cyim">Lunch</td>
+    <td class="tg-cyim">Lunch</td>
+    <td class="tg-cyim">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">14:00 – 15:30</td>
+    <td class="tg-cyim"> </td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">16:00 – 18:00</td>
+    <td class="tg-x1hj"> </td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">Evening</td>
+    <td class="tg-x1hj">Pre-conference<br>dinner</td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj">Symposium dinner</td>
+  </tr>
+</tbody>
+</table>
+<p><em>Participation throughout the entire symposium is encouraged.</em></p>]]></description>
+                
+
+                <guid  isPermaLink="false" >schedule</guid>
+
+                
+                    <link>https://ai-education.github.io/schedule/timetable/</link>
+                
+
+                
+                    <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
+                
+
+                
+                    <title>Timetable</title>
+                
+            </item>
+        
+    </channel>
+</rss>

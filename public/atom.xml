@@ -1,0 +1,602 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed  xml:lang="en"  xmlns="http://www.w3.org/2005/Atom">
+    
+
+    
+        <icon>https://ai-education.github.io</icon>
+    
+
+    <id>https://ai-education.github.io/atom.xml</id>
+
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://ai-education.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://ai-education.github.io/" rel="alternate" type="text/html"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://ai-education.github.io/index.json" rel="alternate" type="application/json"/>
+        
+    
+        
+
+        
+
+        
+            <link href="https://ai-education.github.io/rss.xml" rel="alternate" type="application/rss+xml"/>
+        
+    
+
+    
+
+    
+        <logo>https://ai-education.github.io</logo>
+    
+
+    
+
+    
+        <subtitle type="html"><![CDATA[Symposium<br> 24. – 28. February 2025<br> Salzburg, Austria]]></subtitle>
+    
+
+    <title type="html"><![CDATA[Connecting Disciplines in K-12 <br> AI and Data Science Education]]></title>
+    <updated>0001-01-01T00:00:00Z</updated>
+
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<p>The following focus topics will be addressed and discussed in various sessions (other topics  may be added):</p>
+<p><font size="7"><i class="bi-database"></i></font> <b>Data</b></br>  What  data and related contextual problems are appropriate  for designing learning opportunities related to AI? What do students need to know about the concept of data in order to do  Data Science and understand AI?</br></p>
+<p><font size="7"><i class="bi-tools"></i></font> <b>Tools</b></br>  How can (digital) tools be used for AI and Data Science education? Which tools are suitable for school? </br></p>
+<p><font size="7"><i class="bi-book"></i></font> <b>Learning Materials</b></br>  How can suitable teaching and learning materials look like? Which concepts can be elementarised? What are good practice examples?</br></p>
+<p><font size="7"><i class="bi-patch-check"></i></font> <b>AI and Data Science Competencies</b></br>  What are central competencies that responsible citizens should acquire with regard to the field of AI and data science? Which AI and data science competencies should already be promoted at school? What contribution can and must different subjects make?</br></p>
+<p><font size="7"><i class="bi-card-text"></i></font> <b>AI and Data Science Curricula and Implementation in School</b></br>  How can AI education be integrated in schools? How can AI and Data Science education be integrated into existing subject curricula (e.g. computer science, mathematics, social and natural sciences)? What could a curriculum of an AI and Data Science curriculum look like?</br></p>
+<p><font size="7"><i class="bi-search"></i></font> <b>Research</b></br>  What is the state of scientific knowledge on the topics mentioned above? What future research is needed?</br></p>
+]]></content>
+            
+
+            <id>topics</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="https://ai-education.github.io/schedule/topics/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Focus topics]]></title>
+
+            <updated>0001-01-01T00:00:00Z</updated>
+        </entry>
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<p>The workshop takes place in the city of Salzburg, Austria.</p>
+<p>
+<span class="paige-image">
+<img  alt="Landscape"   class="object-fit-cover rounded-4"  crossorigin="anonymous"  fetchpriority="high"   height="1896"   referrerpolicy="no-referrer"  sizes="(max-width: 576px) 550px, (max-width: 768px) 696px, (max-width: 992px) 936px, (max-width: 1200px) 1116px, (max-width: 1400px) 1296px, 1296px"  src="/../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_3993x1896_resize_q75_h2_box.ab93fc3b1fd6f0bb164be8c8ae690f9cf166cc61bed9443b066a853edc7bb20e.webp"  srcset="/../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_64500d3dfcd7a22045ad43b4bccdeaf9.c5113cb395873c7f113000ca9c91b0e27fcc2a5656030acd62de063c9c954417.webp 550w, /../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_7890138bb879afef96823b059791e099.07f6e7f7c1ff866811033d1aadf71daedbe1ca8dfb32d678743a7949f1f8754d.webp 696w, /../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_e948607304a81d2eca23191f6dc5cb53.3ca0dc265537d38fb663d4bd1283bf117045645063bebbfa4110f1ec4cd8ff29.webp 936w, /../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_7517176583f3117adf838f838829a2b9.f3db2f1e6977d58adde7ca73a6a18004f36dc2cee508cac41902c9c4406fc2f7.webp 1116w, /../assets/img/salzburg2_new_hu07a46bdb7c3a802bc95593df967dae78_1818593_82907151153c424994cbeaa80df59c6b.4b0b78aa61d9898876584dbb29b3af3b5ba98fe063b95a95b9e0cff4ada7effe.webp 1296w"   style="height: 30rem; width: 100%"    width="3993" >
+</span>
+</p>
+]]></content>
+            
+
+            <id>location</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="https://ai-education.github.io/location/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Location]]></title>
+
+            <updated>0001-01-01T00:00:00Z</updated>
+        </entry>
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<div style="width: 100%; text-align: center;">
+  <ul>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>Rolf Biehler</b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>Paderborn University</p></span>
+    </div>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/martin.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>Martin Frank</b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>KIT</p></span>
+    </div>
+     <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/susanne.png" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>Susanne Podworny</b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>Paderborn University</p></span>
+    </div>
+     <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/sarah.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>Sarah Schönbrodt</b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>Salzburg University</p></span>
+    </div>
+     <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA </b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
+    </div>
+     <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA </b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
+    </div>
+    <div style="margin: 10px; display: inline-block;">
+      <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
+      <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA</b></a></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
+    </div>
+  </ul>
+</div>
+]]></content>
+            
+
+            <id>speakers</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="https://ai-education.github.io/speakers/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Speakers]]></title>
+
+            <updated>0001-01-01T00:00:00Z</updated>
+        </entry>
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+    <th class="tg-0pky"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>   
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+<p>Start: 24 February 2025, 9am!</p>
+<p>End: 27 February 2025, 6pm </p>
+<p><em>Participation throughout the entire symposium is encouraged.</em></p>
+<p class="display-8 fw-bold h2 text-center">Activities</p>
+<ul>
+    <li>Plenary talks (approx. 50’)</li>
+    <li>Short talks (approx. 25’)</li>
+    <li>Poster sessions</li>
+    <li>Discussion rounds (daily); results are presented in plenary phases</li>
+    <li>Social activities for community building</li>
+</ul>
+]]></content>
+            
+
+            <id>timetable</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="https://ai-education.github.io/schedule/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Timetable]]></title>
+
+            <updated>0001-01-01T00:00:00Z</updated>
+        </entry>
+    
+        <entry>
+            
+            
+            
+            
+            
+            
+            
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+
+            
+
+            
+                
+            
+
+            
+
+            
+                <content type="html"><![CDATA[<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#9ABAD9;border-spacing:0;}
+.tg td{background-color:#EBF5FF;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#444;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#0d6efd;border-color:#9ABAD9;border-style:solid;border-width:1px;color:#fff;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-x1hj{border-color:inherit;font-size:22px;text-align:left;vertical-align:top}
+.tg .tg-cyim{font-size:22px;text-align:left;vertical-align:top}
+.tg .tg-bhpp{font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-spag{border-color:inherit;font-size:22px;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 1066px">
+<colgroup>
+<col style="width: 184px">
+<col style="width: 193px">
+<col style="width: 146px">
+<col style="width: 148px">
+<col style="width: 178px">
+<col style="width: 217px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-cyim"></th>
+    <th class="tg-spag">Sunday, 23.02.2025</th>
+    <th class="tg-spag">Monday, 24.02.2025</th>
+    <th class="tg-spag">Tuesday, 26.02.2025</th>
+    <th class="tg-spag">Wednesday, 26.02.2025</th>
+    <th class="tg-spag">Thursday, 27.02.2025</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bhpp">09:00 – 12:00</td>
+    <td class="tg-x1hj"> </td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">12:00 – 14:00</td>
+    <td class="tg-cyim"> </td>
+    <td class="tg-cyim">Lunch </td>
+    <td class="tg-cyim">Lunch</td>
+    <td class="tg-cyim">Lunch</td>
+    <td class="tg-cyim">Lunch</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">14:00 – 15:30</td>
+    <td class="tg-cyim"> </td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+    <td class="tg-cyim">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">16:00 – 18:00</td>
+    <td class="tg-x1hj"> </td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+    <td class="tg-x1hj">TBA</td>
+  </tr>
+  <tr>
+    <td class="tg-bhpp">Evening</td>
+    <td class="tg-x1hj">Pre-conference<br>dinner</td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj"></td>
+    <td class="tg-x1hj">Symposium dinner</td>
+  </tr>
+</tbody>
+</table>
+<p><em>Participation throughout the entire symposium is encouraged.</em></p>]]></content>
+            
+
+            <id>schedule</id>
+
+            
+                
+
+                
+                    
+
+                    <link href="https://ai-education.github.io/schedule/timetable/" rel="alternate" type="text/html"/>
+                
+            
+
+            
+
+            
+
+            
+
+            
+
+            <title type="html"><![CDATA[Timetable]]></title>
+
+            <updated>0001-01-01T00:00:00Z</updated>
+        </entry>
+    
+</feed>

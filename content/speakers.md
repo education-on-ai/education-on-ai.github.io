@@ -36,17 +36,17 @@ title = "Speakers"
      <div style="margin: 10px; display: inline-block;">
       <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
       <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA </b></a></span>
-      <span style="display: block; margin-top: -10px; text-align: center;"><p>Paderborn University</p></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
     </div>
      <div style="margin: 10px; display: inline-block;">
       <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
       <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA </b></a></span>
-      <span style="display: block; margin-top: -10px; text-align: center;"><p>Paderborn University</p></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
     </div>
     <div style="margin: 10px; display: inline-block;">
       <a href="https://schoenbrodt.info/"><img src="/img/tba.jpg" style="border: 2px solid gray; width: 175px; height: 175px; background-size: cover; border-radius: 50%;"></a>
       <span style="display: block; padding: 5%; text-align: center;"><a href="https://schoenbrodt.info/"><b>TBA</b></a></span>
-      <span style="display: block; margin-top: -10px; text-align: center;"><p>Paderborn University</p></span>
+      <span style="display: block; margin-top: -10px; text-align: center;"><p>TBA</p></span>
     </div>
   </ul>
 </div>
