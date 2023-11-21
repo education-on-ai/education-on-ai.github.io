@@ -1,4 +1,4 @@
-baseURL = 'https://schoenbrodt.info/ai-education.github.io/'
+baseURL = 'https://education-on-ai.github.io'
 languageCode = 'en-us'
 title = 'AI Education Workshop'
 
