@@ -1,4 +1,4 @@
-module github.com/Schoenbrodt/ai-education
+module github.com/education-on-ai/education-on-ai.github.io
 
 go 1.20
 
