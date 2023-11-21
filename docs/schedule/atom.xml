@@ -47,21 +47,11 @@
     
 
     
-        <icon>https://ai-education.github.io</icon>
+        <icon>https://schoenbrodt.info/ai-education.github.io/</icon>
     
 
-    <id>https://ai-education.github.io/schedule/atom.xml</id>
+    <id>https://schoenbrodt.info/ai-education.github.io/schedule/atom.xml</id>
 
-    
-        
-
-        
-            
-        
-
-        
-            <link href="https://ai-education.github.io/schedule/atom.xml" rel="self" type="application/atom+xml"/>
-        
     
         
 
@@ -70,7 +60,17 @@
         
 
         
-            <link href="https://ai-education.github.io/schedule/" rel="alternate" type="text/html"/>
+            <link href="https://schoenbrodt.info/ai-education.github.io/schedule/atom.xml" rel="self" type="application/atom+xml"/>
+        
+    
+        
+
+        
+            
+        
+
+        
+            <link href="https://schoenbrodt.info/ai-education.github.io/schedule/" rel="alternate" type="text/html"/>
         
     
         
@@ -78,14 +78,14 @@
         
 
         
-            <link href="https://ai-education.github.io/schedule/rss.xml" rel="alternate" type="application/rss+xml"/>
+            <link href="https://schoenbrodt.info/ai-education.github.io/schedule/rss.xml" rel="alternate" type="application/rss+xml"/>
         
     
 
     
 
     
-        <logo>https://ai-education.github.io</logo>
+        <logo>https://schoenbrodt.info/ai-education.github.io/</logo>
     
 
     
@@ -147,7 +147,7 @@
                 
                     
 
-                    <link href="https://ai-education.github.io/schedule/topics/" rel="alternate" type="text/html"/>
+                    <link href="https://schoenbrodt.info/ai-education.github.io/schedule/topics/" rel="alternate" type="text/html"/>
                 
             
 
@@ -281,7 +281,7 @@
                 
                     
 
-                    <link href="https://ai-education.github.io/schedule/timetable/" rel="alternate" type="text/html"/>
+                    <link href="https://schoenbrodt.info/ai-education.github.io/schedule/timetable/" rel="alternate" type="text/html"/>
                 
             
 
